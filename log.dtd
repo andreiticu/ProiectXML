@@ -1,0 +1,17 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT root (date1)>
+<!ATTLIST root
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT date1 (user,pass)>
+<!ATTLIST date1
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT user (#PCDATA)>
+<!ATTLIST user
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT pass (#PCDATA)>
+<!ATTLIST pass
+  xmlns CDATA #FIXED ''>

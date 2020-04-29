@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<date>
+    <id>1</id>
+    <title>Avocado</title>
+    <image>./images/im9.jpg</image>
+    <view>view.php?id=1</view>
+    <edit>edit.php?id=1</edit>
+    <delete>delete.php?id=1</delete>
+    <confirm>return confirm("Are you sure you want to delete this item?")</confirm>
+    <back>welcome.php</back>
+    <back1>login.php</back1>
+</date>
+<date>
+    <id>2</id>
+    <title>Pui la cuptor</title>
+    <image>./images/31839f794f25e09a8e18ee8740818a62Pui_la_cuptor.jpg</image>
+    <view>view.php?id=2</view>
+    <edit>edit.php?id=2</edit>
+    <delete>delete.php?id=2</delete>
+    <confirm>return confirm("Are you sure you want to delete this item?")</confirm>
+    <back>welcome.php</back>
+    <back1>login.php</back1>
+</date>
+<date>
+    <id>3</id>
+    <title>Tort </title>
+    <image>./images/670d4bdfd3231ebafc46859afc980390TortDiplomat.jpg</image>
+    <view>view.php?id=3</view>
+    <edit>edit.php?id=3</edit>
+    <delete>delete.php?id=3</delete>
+    <confirm>return confirm("Are you sure you want to delete this item?")</confirm>
+    <back>welcome.php</back>
+    <back1>login.php</back1>
+</date>
+<track>
+    <contor>7</contor>
+</track>
+<date1><user>doru'sfood@yahoo.com</user><pass>654321</pass></date1><date1><user>doru'sfood@yahoo.com</user><pass>654321</pass></date1><date1><user>doru'sfood@yahoo.com</user><pass>654321</pass></date1><date1><user>doru'sfood@yahoo.com</user><pass>654321</pass></date1><date1><user>doru'sfood@yahoo.com</user><pass>654321</pass></date1></root>
